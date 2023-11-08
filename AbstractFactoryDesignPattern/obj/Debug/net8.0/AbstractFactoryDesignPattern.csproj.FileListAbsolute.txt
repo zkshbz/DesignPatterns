@@ -1,0 +1,14 @@
+/Users/zekisahbaz/Desktop/Codes/Github/DesignPatterns/AbstractFactoryDesignPattern/bin/Debug/net8.0/AbstractFactoryDesignPattern
+/Users/zekisahbaz/Desktop/Codes/Github/DesignPatterns/AbstractFactoryDesignPattern/bin/Debug/net8.0/AbstractFactoryDesignPattern.deps.json
+/Users/zekisahbaz/Desktop/Codes/Github/DesignPatterns/AbstractFactoryDesignPattern/bin/Debug/net8.0/AbstractFactoryDesignPattern.runtimeconfig.json
+/Users/zekisahbaz/Desktop/Codes/Github/DesignPatterns/AbstractFactoryDesignPattern/bin/Debug/net8.0/AbstractFactoryDesignPattern.dll
+/Users/zekisahbaz/Desktop/Codes/Github/DesignPatterns/AbstractFactoryDesignPattern/bin/Debug/net8.0/AbstractFactoryDesignPattern.pdb
+/Users/zekisahbaz/Desktop/Codes/Github/DesignPatterns/AbstractFactoryDesignPattern/obj/Debug/net8.0/AbstractFactoryDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zekisahbaz/Desktop/Codes/Github/DesignPatterns/AbstractFactoryDesignPattern/obj/Debug/net8.0/AbstractFactoryDesignPattern.AssemblyInfoInputs.cache
+/Users/zekisahbaz/Desktop/Codes/Github/DesignPatterns/AbstractFactoryDesignPattern/obj/Debug/net8.0/AbstractFactoryDesignPattern.AssemblyInfo.cs
+/Users/zekisahbaz/Desktop/Codes/Github/DesignPatterns/AbstractFactoryDesignPattern/obj/Debug/net8.0/AbstractFactoryDesignPattern.csproj.CoreCompileInputs.cache
+/Users/zekisahbaz/Desktop/Codes/Github/DesignPatterns/AbstractFactoryDesignPattern/obj/Debug/net8.0/AbstractFactoryDesignPattern.dll
+/Users/zekisahbaz/Desktop/Codes/Github/DesignPatterns/AbstractFactoryDesignPattern/obj/Debug/net8.0/refint/AbstractFactoryDesignPattern.dll
+/Users/zekisahbaz/Desktop/Codes/Github/DesignPatterns/AbstractFactoryDesignPattern/obj/Debug/net8.0/AbstractFactoryDesignPattern.pdb
+/Users/zekisahbaz/Desktop/Codes/Github/DesignPatterns/AbstractFactoryDesignPattern/obj/Debug/net8.0/AbstractFactoryDesignPattern.genruntimeconfig.cache
+/Users/zekisahbaz/Desktop/Codes/Github/DesignPatterns/AbstractFactoryDesignPattern/obj/Debug/net8.0/ref/AbstractFactoryDesignPattern.dll
